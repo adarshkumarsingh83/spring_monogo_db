@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>database properties</comment>
+    <entry key="dataSource.hostname">127.0.0.1</entry>
+    <entry key="dataSource.portNumber">27017</entry>
+    <entry key="dataSource.database">testdb</entry>
+    <entry key="dataSource.collection">user</entry>
+    <entry key="dataSource.username">admin</entry>
+    <entry key="dataSource.password">pwd</entry>
+</properties>

@@ -1,0 +1,14 @@
+#Displaying all the dbs
+>show dbs
+
+>use testdb
+
+#Displaying All the Collections
+>show collections
+>db.user.find()
+
+#Switching db
+>use testdb
+
+#User Creation
+>db.addUser("admin","pwd")
